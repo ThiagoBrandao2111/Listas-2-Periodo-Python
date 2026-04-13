@@ -1,2 +1,7 @@
-# Listas-2-Periodo-Python
-Atividade do 2° período do curso de Sistemas de Informação
+Listas de Exercícios em Python
+
+Aluno: Thiago Cavalcante Brandão
+
+Conteúdo:
+- Lista 1: Funções
+- Lista 2: Tratamento de erros usando Try e Except
